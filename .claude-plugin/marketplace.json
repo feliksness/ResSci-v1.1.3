@@ -1,0 +1,14 @@
+{
+  "name": "research-skills",
+  "description": "Research skills for Claude: evidence-first scientific research and citation verification.",
+  "owner": { "name": "Tigran Mikayelyan" },
+  "plugins": [
+    {
+      "name": "scientific-researcher",
+      "source": "./",
+      "description": "Evidence-first scientific research: literature reviews, evidence synthesis, study appraisal, statistics checks, and citation and retraction verification. Never fabricates sources, data, or results.",
+      "category": "research",
+      "tags": ["science", "research", "citations", "evidence"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# claude plugin eval output
+evals/results/
+# Python
+__pycache__/
+*.pyc
+# OS
+.DS_Store

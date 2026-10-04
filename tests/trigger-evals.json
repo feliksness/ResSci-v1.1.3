@@ -1,0 +1,74 @@
+[
+  {
+    "query": "my supervisor wants a lit review on microplastics in human tissue for our lab meeting next week, around 3000 words, can you pull together what's actually known vs hype",
+    "should_trigger": true
+  },
+  {
+    "query": "is it true that we lose most of our body heat through our heads? my dad keeps saying it and I want to send him something with actual sources",
+    "should_trigger": true
+  },
+  {
+    "query": "Can you check whether these 14 references in my thesis chapter are real? A few came from ChatGPT last year and I'm worried some are made up",
+    "should_trigger": true
+  },
+  {
+    "query": "compare the 3 RCTs on semaglutide for alcohol use disorder vs the observational data, which should I trust more",
+    "should_trigger": true
+  },
+  {
+    "query": "I ran a pilot with 18 rats (attached csv) - write the results and discussion section for the paper, the treatment group clearly did better",
+    "should_trigger": true
+  },
+  {
+    "query": "what's the strongest evidence on climate sensitivity right now? need ranges and where they come from, not a blog summary",
+    "should_trigger": true
+  },
+  {
+    "query": "draft a scoping review protocol on AI-assisted diagnosis in dermatology, PCC framework, for submission to OSF",
+    "should_trigger": true
+  },
+  {
+    "query": "this paper says p=0.049 with t(18)=2.1, does that even add up? also the means look weird for a 1-7 likert scale with n=19",
+    "should_trigger": true
+  },
+  {
+    "query": "write a science explainer for high schoolers about how mRNA vaccines work, with sources they could look up",
+    "should_trigger": true
+  },
+  {
+    "query": "find the contradictions in the literature on whether moderate drinking is protective for heart disease",
+    "should_trigger": true
+  },
+  {
+    "query": "format these 30 references into APA 7th, they're already verified, I just need the formatting fixed",
+    "should_trigger": false
+  },
+  {
+    "query": "write a fun short story about a scientist who discovers a new species of glowing frog",
+    "should_trigger": false
+  },
+  {
+    "query": "help me write a cover letter for a postdoc position in computational neuroscience at ETH",
+    "should_trigger": false
+  },
+  {
+    "query": "can you make me a slide deck from my already-finished paper for a 10 minute conference talk",
+    "should_trigger": false
+  },
+  {
+    "query": "fix the bug in my python script that plots the confidence intervals - the error bars are upside down",
+    "should_trigger": false
+  },
+  {
+    "query": "what's a good name for my science podcast about space",
+    "should_trigger": false
+  },
+  {
+    "query": "summarize this news article about the new SpaceX launch in 3 bullet points for my group chat",
+    "should_trigger": false
+  },
+  {
+    "query": "make a title page for my thesis in LaTeX with the university logo centered and my supervisor's name underneath",
+    "should_trigger": false
+  }
+]

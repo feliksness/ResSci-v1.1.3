@@ -1,0 +1,7 @@
+{
+  "name": "scientific-researcher",
+  "displayName": "Scientific Researcher",
+  "description": "Evidence-first scientific research: literature reviews, evidence synthesis, study appraisal, statistics checks, and citation and retraction verification. Never fabricates sources, data, or results.",
+  "author": { "name": "Tigran Mikayelyan" },
+  "keywords": ["science", "research", "literature-review", "systematic-review", "meta-analysis", "citations", "fact-checking", "evidence"]
+}
